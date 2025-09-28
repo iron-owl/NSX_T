@@ -1,6 +1,6 @@
 # Введение
 
-В данном репозитории представлен конспект книги **"Getting Started with NSX-T: Logical Routing and Switching: The Basic Principles of Building Software-Defined Network Architectures with VMware NSX-T"**. Автор --- Iwan Hoogendoorn.
+В данном репозитории представлен конспект книги **"Getting Started with NSX-T: Logical Routing and Switching: The Basic Principles of Building Software-Defined Network Architectures with VMware NSX-T"**. Автор - Iwan Hoogendoorn.
 
 # Содержание
 
